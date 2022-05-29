@@ -51,3 +51,21 @@ body{
   color: black!important;
   background-color: #FB857F;
 }
+
+.footer{
+  background-color: #2BB3DD;
+}
+
+.circle1{
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: white;
+  font-size: 40px;
+  text-align: center;
+  color: #2BB3DD;
+}
+.circle1:hover{
+  background-color: #474D5D;
+}
