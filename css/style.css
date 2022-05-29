@@ -69,3 +69,7 @@ body{
 .circle1:hover{
   background-color: #474D5D;
 }
+
+.gallery-container{
+  background-color: cadetblue;
+}
